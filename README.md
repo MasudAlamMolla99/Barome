@@ -1,1 +1,2 @@
-[Live Demo](https://amazing-pika-327535.netlify.app/)
+## 🚀 Live Demo
+👉 [Click here to view Barome](https://MasudAlamMolla99.github.io/Barome/)
